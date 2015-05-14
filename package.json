@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-useclark",
+  "version": "1.0.0",
+  "description": "Linting rules for use at Useclark",
+  "main": "config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Useclark/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Useclark/eslint-config/issues"
+  },
+  "homepage": "https://github.com/Useclark/eslint-config#readme",
+  "peerDependencies": {
+    "eslint": "0.21.x"
+  }
+}
