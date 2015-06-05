@@ -34,6 +34,7 @@ module.exports = {
     'curly': false,
     'key-spacing': false,
     'no-underscore-dangle': false,
+    'yoda': [1, 'never', {onlyEquality: true}],
 
     // Relax
     'no-path-concat': false,
