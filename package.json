@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-useclark",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Linting rules for use at Useclark",
   "main": "config.js",
   "repository": {
