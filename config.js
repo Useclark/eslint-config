@@ -30,14 +30,14 @@ module.exports = {
     'quotes': [1, 'single'],
 
     // Relax style
-    'camelcase': false,
-    'curly': false,
-    'key-spacing': false,
-    'no-underscore-dangle': false,
+    'camelcase': 0,
+    'curly': 0,
+    'key-spacing': 0,
+    'no-underscore-dangle': 0,
     'yoda': [1, 'never', {onlyEquality: true}],
 
     // Relax
-    'no-path-concat': false,
-    'consistent-return': false
+    'no-path-concat': 0,
+    'consistent-return': 0
   }
 };
