@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Useclark/eslint-config#readme",
   "peerDependencies": {
-    "eslint": "^1.1.0"
+    "eslint": "^3.1.1"
   }
 }
